@@ -61,7 +61,6 @@ Resources:
           <html><body>Hello Worlds !!</body></html>
           EOF
       ImageId: ami-067f5c3d5a99edc80
-      KeyName: that-one
       SecurityGroups:
       - Ref: WebServerSecGroup
       InstanceType: t2.micro

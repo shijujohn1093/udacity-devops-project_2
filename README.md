@@ -17,4 +17,4 @@
 
 ## Load balancer url for project 2
 
-http://resou-WebAp-1S7TURTB3MZ2J-1588741839.us-west-2.elb.amazonaws.com
+http://resou-webap-1590ba2a1y2bv-1747557991.us-west-2.elb.amazonaws.com/
